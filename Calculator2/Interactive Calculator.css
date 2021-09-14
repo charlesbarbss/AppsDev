@@ -1,0 +1,9 @@
+body{
+    font-style: italic;
+    text-align: center;
+    font-family: monospace;
+}
+.ChangeTheme {
+    background-color: black;
+    color: white;
+  }
